@@ -32,7 +32,7 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/imleviofc' //Instagram mu
 global.sgh = 'https://github.com/ImleviOfc' //Github mu
-global.swb = 'https://chat.whatsapp.com/G84awYmL0fUEilc2zfTWl1'
+global.swb = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 global.sfb = 'https://www.facebook.com/erdiansyah.teddy.3'
 global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //YT Mu
