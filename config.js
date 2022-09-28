@@ -470,8 +470,8 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'Arip'
-global.umurowner = '16'
+global.nameowner = 'Ryuu'
+global.umurowner = '14'
 global.asalowner = 'Berau, Kalimantan Timur' // citer anjay🗿
 global.nomorowner = 'wa.me/6285172446692'
 global.pacarowner = 'private'
