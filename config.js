@@ -30,38 +30,38 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/aripbotz' //Instagram mu
-global.sgh = 'https://github.com/AripBotz' //Github mu
+global.sig = 'https://instagram.com/imleviofc' //Instagram mu
+global.sgh = 'https://github.com/ImleviOfc' //Github mu
 global.swb = 'https://chat.whatsapp.com/G84awYmL0fUEilc2zfTWl1'
-global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/channel/UCzhZZw41-8EXbejr7YfJWUg' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/G84awYmL0fUEilc2zfTWl1' //Group WhatsApp mu
-global.sdc = 'https://chat.whatsapp.com/G84awYmL0fUEilc2zfTWl1' //Discord Mu
+global.sfb = 'https://www.facebook.com/erdiansyah.teddy.3'
+global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6' //Group WhatsApp mu
+global.sdc = 'https://chat.whatsapp.com/Io11BFEwL2RAzIQBupUlAZ' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085802829541' //Dana
-global.povo = '-' //Ovo
-global.pgopay = '-' //Gopay
-global.ppulsa = '085802829541' //Pulsa 
-global.ppulsa2 = '085940685233' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/aripbotz' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Pulsa:* 085802829541\n│┝‷✧ *Dana:* 085802829541\n│┝‷✧ *Pulsa2:* 085940685233\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pdana = '085172446692' //Dana
+global.povo = '085172446692' //Ovo
+global.pgopay = '085172446692' //Gopay
+global.ppulsa = '085172446692' //Pulsa 
+global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = '-' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Pulsa:* 085172446692\n│┝‷✧ *Dana:* 085172446692\n│┝‷✧ *Ovo:* 085172446692\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285940685233' //Nomor Bot mu
-global.nomorown = '6285802829541' //Nomormu
-global.namebot = 'CHAERIN BOT' //Nama bot mu
-global.nameown = 'Djancuks Ganz' //Nama mu
+global.nomorbot = '6281255466600' //Nomor Bot mu
+global.nomorown = '6285172446692' //Nomormu
+global.namebot = 'Ryuu-Botz' //Nama bot mu
+global.nameown = 'Ryuu-Kawai' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
-global.after = 'Bot by Djancuks'
-global.swo = 'https://wa.me/6285802829541'
-global.author = '                © Chaerin BOT By Djancuks' //Wm author
-global.botintro = 'Hallo, Kenalin saya Chaerin BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Djancuks* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.after = 'Bot by Ryuu'
+global.swo = 'https://wa.me/6285172446692'
+global.author = '                © Ryuu BOT By Ryuu-Kawai' //Wm author
+global.botintro = 'Hallo, Kenalin saya Ryuu BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Ryuu* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -85,9 +85,9 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285940685233'], //Owner1
-  ['6285802829541'], //Owner2
-  ['6285802829541', 'Djancuks ! 🥶', true] //Ini buat kamu!
+  ['6285172446692'], //Owner1
+  ['6285172446692'], //Owner2
+  ['6285172446692', 'Ryuu ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,13 +145,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 CHAERIN - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Djancuks - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 CHAERIN - BOT'
+global.wm = '                「 赤 RYUU - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Ryuu - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 RYUU - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: Djancuks' //Ganti serah lu
+global.titlebot = '𝗬𝗧: Ryuu' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -472,9 +472,9 @@ global.fpagedoc = '999' //Gausah di ganti.
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
 global.nameowner = 'Arip'
 global.umurowner = '16'
-global.asalowner = 'Pekalongan, Jawa tengah' // citer anjay🗿
-global.nomorowner = 'wa.me/6285802829541'
-global.pacarowner = 'Ga ada pacar'
+global.asalowner = 'Berau, Kalimantan Timur' // citer anjay🗿
+global.nomorowner = 'wa.me/6285172446692'
+global.pacarowner = 'private'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
@@ -504,9 +504,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'Chaerin BOT'
-global.stickauth = `© Chaerin BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By Djancuks'
+global.stickpack = 'Ryuu BOT'
+global.stickauth = `© Ryuu BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By Ryuu-Kawai'
 
 
 global.multiplier = 38 // The higher, The harder levelup
@@ -597,7 +597,7 @@ global.fpayment = (m) => {
 			requestFrom: (m !== null && m !== undefined) ? m.sender : '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
-					text: (m !== null && m !== undefined) ? m.text : 'Subs YT: Arip Botz'
+					text: (m !== null && m !== undefined) ? m.text : 'Subs YT: Ryuu Botz'
 				}
 			},
 			expiryTimestamp: 999999999,
