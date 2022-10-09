@@ -10,7 +10,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLongitude: 0,
   name: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
   address: 'Click Text berwarna Biru\n\nNge tensnenwkdn',
-  url: `https://saweria.co/aripbotz`,
+  url: `wa.me/6285172446692`,
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,
